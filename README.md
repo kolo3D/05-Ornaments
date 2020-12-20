@@ -5,9 +5,10 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 ## Info
 1. Wycinanie utworów - "Knife tool - K"
 2. Boolean
-3. Curves
-4. Skala, Tolerancje
-5. Troubleshooting
+3. Duplicate, Instance
+4. Curves
+5. Skala, Tolerancje
+6. Troubleshooting
 
 ```
 ZAD01. Przygotuj otwory dla zakleszczeń elementów samolotu
