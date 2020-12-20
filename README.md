@@ -14,7 +14,9 @@ ZAD01. Przygotuj otwory dla zakleszczeń elementów samolotu
 
 ![OrnamentBox](/PZL37_pieces.JPG)
 
-ZAD02. Przygotuj ozdobne pudełko zbudowane z sześciu ścian. 
+ZAD02. Przygotuj ozdobne pudełko zbudowane z sześciu ścian.
+
+ZAD03. Przygotuj bąbkę choinkową wg wzoru
 
 ```
 
