@@ -12,6 +12,8 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 ```
 ZAD01. Przygotuj otwory dla zakleszczeń elementów samolotu
 
+![OrnamentBox](/PZL37_pieces.JPG)
+
 ZAD02. Przygotuj ozdobne pudełko zbudowane z sześciu ścian. 
 
 ```
