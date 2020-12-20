@@ -22,3 +22,5 @@ ZAD03. Przygotuj bąbkę choinkową wg wzoru
 
 ![OrnamentBox](/OrnamentBox.JPG)
 ![OrnamentBox](/OrnamentBox_pieces.JPG)
+![OrnamentBauble](/OrnamentBulb_01.JPG)
+
