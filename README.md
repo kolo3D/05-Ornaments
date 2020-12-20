@@ -17,3 +17,4 @@ ZAD02. Przygotuj ozdobne pudełko zbudowane z sześciu ścian.
 ```
 
 ![OrnamentBox](https://github.com/kolo3D/05-Ornaments/blob/main/OrnamentBox.JPG)
+![OrnamentBox](/OrnamentBox.JPG)
