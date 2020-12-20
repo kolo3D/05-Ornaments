@@ -14,5 +14,6 @@ ZAD01. Przygotuj otwory dla zakleszczeń elementów samolotu
 
 ZAD02. Przygotuj ozdobne pudełko zbudowane z sześciu ścian. 
 
-![OrnamentBox](OrnamentBox.jpg)
 ```
+
+![OrnamentBox](OrnamentBox.jpg)
