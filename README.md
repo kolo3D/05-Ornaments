@@ -10,6 +10,7 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 5. Skala, Tolerancje
 6. Troubleshooting
 
+![OrnamentBox](/PZL37_pieces.JPG)
 ```
 ZAD01. Przygotuj otwory dla zakleszczeń elementów samolotu
 
